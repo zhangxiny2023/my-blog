@@ -25,13 +25,13 @@ export const HOME_PAGE_DESCRIPTION = "分享关于设计、技术与创意过程
  */
 
 // 3. 用户名
-export const AUTHOR_NAME = "张三";
+export const AUTHOR_NAME = "niagara.zhang";
 
 // 4. 职业称号/简介
-export const AUTHOR_TITLE = "一个热爱生活的开发者";
+export const AUTHOR_TITLE = "A IT Developer man";
 
 // 5. 联系邮箱/链接 (显示在头像下方)
-export const AUTHOR_CONTACT = "mailto:webmaster@example.com";
+export const AUTHOR_CONTACT = "mailto:knighttravel99@gmail.com";
 
 // 6. 头像图片路径
 // 可以使用远程链接，或者将图片放入 public/images/ 后使用 "/images/文件名.jpg"
@@ -63,9 +63,9 @@ export const MENU_ITEMS = [
 //预置了一个免费图床和一个高清图片壁纸站按钮,由于后者被墙，需要把后者的图片放到前面的图床后，再复制链接给你的博客配图
 export const RECOMMENDED_LINKS = [
   { label: 'GitHub', url: 'https://github.com', icon: Share2 },
-  { label: '我的主站', url: 'https://example.com', icon: Tv },
-  { label: '第三方图床', url: 'https://urusai.cc', icon: Image },
-  { label: '壁纸图片网站', url: 'https://wallhaven.cc', icon: Image },
+  { label: 'My Facebook', url: 'https://example.com', icon: Tv },
+  { label: 'B2B shop', url: 'https://shop.hgst.ccwu.cc', icon: Image },
+  { label: 'Youtube', url: 'https://www.youtube.com/@zhangx.niagara', icon: Image },
 ];
 
 

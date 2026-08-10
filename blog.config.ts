@@ -13,7 +13,7 @@ import { Home, Archive, Tag, User, MessageCircle, Tv, Share2,Image, HelpCircle, 
  */
 
 // 1. 网站标题（显示在浏览器标签页上）
-export const SITE_TITLE = "张三的个人博客";
+export const SITE_TITLE = "zhang.niagara blog";
 
 // 2. 网站首页描述（显示在首页标题下方，简短介绍）
 export const HOME_PAGE_DESCRIPTION = "分享关于设计、技术与创意过程的思考。";
@@ -63,7 +63,7 @@ export const MENU_ITEMS = [
 //预置了一个免费图床和一个高清图片壁纸站按钮,由于后者被墙，需要把后者的图片放到前面的图床后，再复制链接给你的博客配图
 export const RECOMMENDED_LINKS = [
   { label: 'GitHub', url: 'https://github.com', icon: Share2 },
-  { label: 'My Facebook', url: 'https://example.com', icon: Tv },
+  { label: 'My Facebook', url: 'https://www.facebook.com/profile.php?id=61578658292008', icon: Tv },
   { label: 'B2B shop', url: 'https://shop.hgst.ccwu.cc', icon: Image },
   { label: 'Youtube', url: 'https://www.youtube.com/@zhangx.niagara', icon: Image },
 ];

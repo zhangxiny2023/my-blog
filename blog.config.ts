@@ -16,7 +16,7 @@ import { Home, Archive, Tag, User, MessageCircle, Tv, Share2,Image, HelpCircle, 
 export const SITE_TITLE = "zhang.niagara blog";
 
 // 2. 网站首页描述（显示在首页标题下方，简短介绍）
-export const HOME_PAGE_DESCRIPTION = "分享关于设计、技术与创意过程的思考。";
+export const HOME_PAGE_DESCRIPTION = "IT engineer, focusing on hdd repair technology and software tool development！！";
 
 /**
  * ==========================================
@@ -28,7 +28,7 @@ export const HOME_PAGE_DESCRIPTION = "分享关于设计、技术与创意过程
 export const AUTHOR_NAME = "niagara.zhang";
 
 // 4. 职业称号/简介
-export const AUTHOR_TITLE = "A IT Developer man";
+export const AUTHOR_TITLE = "IT Engineer，HDD software developer";
 
 // 5. 联系邮箱/链接 (显示在头像下方)
 export const AUTHOR_CONTACT = "mailto:knighttravel99@gmail.com";
@@ -80,11 +80,9 @@ export const ABOUT_PAGE_CONFIG = {
   title: AUTHOR_TITLE,
   image: "https://i.urusai.cc/PDOiV.png", // 背景大图
   description: `
-你好！我是${AUTHOR_NAME}。
+hello！I am${AUTHOR_NAME}。
 
-这里是我的个人空间，记录我的学习、思考和生活点滴。
-我热爱技术，也喜欢探索生活中的各种可能性。
-希望这里的内容能给你带来一些启发。
+This is zhang.niagara space，decode hdd version about niagara software extend script。
   `.trim()
 };
 
@@ -115,7 +113,7 @@ export const POST_BOTTOM_IMAGES = [
   {
     enabled: true,
     url: "public/images/github.jpg",
-    label: "关注我的公众号" 
+    label: "focus it !" 
   },
 ];
 

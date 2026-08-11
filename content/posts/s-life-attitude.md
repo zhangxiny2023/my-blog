@@ -1,21 +1,19 @@
 ---
-title: "慢下来，也是一种前进"
-date: "2026-07-01"
-updated: "2026-07-01"
+title: "niagara extend script v1.0"
+date: "2026-08-01"
+updated: "2026-08-01"
 draft: false
 sticky: null
-tags: ["生活", "感悟"]
-categories: ["分享"]
-description: "在这个追求速度的时代，慢下来倾听自己，何尝不是一种智慧。"
+tags: ["niagara", "extend function"]
+categories: ["sicript hgst repair"]
+description: "new version of niagara extend script v1.0。"
 image: "/images/s.jpg"
 ---
-
-不知道从什么时候开始，我们习惯了追赶。追赶工作、追赶信息、追赶别人的脚步。
-
-偶尔停下来才发现，那些被忽略的瞬间才最真实——清晨第一缕光、路边新开的花、一杯刚好温热的茶。
-
-我逐渐学会跟自己的节奏走。不为焦虑买单，不把忙碌当勋章。把时间分给真正重要的事，分给不值得解释的人少一些。
-
-慢一点，没关系。重要的是你在往对的方向走。
-
-生活不是百米冲刺，而是一场属于自己的徒步旅行。
+new function about niagara 4.3 and extend script at 2026.04.01----
+--1、hgst hdd and ssd clear smart，includeing sas and sata from hus724040、hus726060... to...wus721818
+--2、hgst hdd adn ssd unlock fw from sas to sata，and sata to sas，from hus724040、hus726060...to... wus721818
+--3、hgst and wd psid unlock.
+--4、modify sn and model，rom hus724040、hus726060... to ...wus721818.
+--5、repire hdd，including g to p，rebuild trans,clear g-list.
+--6、toshiba clear smart.
+--7、seagate unlock，exe command to clear smart，unlock fw and update，cut head，modify sn and vendor.

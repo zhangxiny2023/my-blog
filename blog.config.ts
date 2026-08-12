@@ -52,11 +52,11 @@ export const AUTHOR_AVATAR = "public/images/github.jpg";
 
 // 7. 导航菜单列表
 export const MENU_ITEMS = [
-  { id: 'home', label: '首页', icon: Home },
-  { id: 'archive', label: '归档', icon: Archive },
-  { id: 'categories', label: '分类', icon: Layout },
-  { id: 'tags', label: '标签', icon: Tag },
-  { id: 'about', label: '关于', icon: User },
+  { id: 'home', label: 'home', icon: Home },
+  { id: 'archive', label: 'archive', icon: Archive },
+  { id: 'categories', label: 'categories', icon: Layout },
+  { id: 'tags', label: 'tags', icon: Tag },
+  { id: 'about', label: 'about', icon: User },
 ];
 
 // 8. 侧边栏底部的社交/推荐链接：
@@ -112,8 +112,8 @@ export const SITE_BG_OPACITY = 0.85;
 export const POST_BOTTOM_IMAGES = [
   {
     enabled: true,
-    url: "public/images/github.jpg",
-    label: "focus it !" 
+    url: "public/images/niagara.jpg",
+    label: "please focus it !" 
   },
 ];
 

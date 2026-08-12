@@ -112,7 +112,7 @@ export const SITE_BG_OPACITY = 0.85;
 export const POST_BOTTOM_IMAGES = [
   {
     enabled: true,
-    url: "public/images/niagara.jpg",
+    url: "public/images/github.jpg",
     label: "please focus it !" 
   },
 ];

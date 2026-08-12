@@ -94,7 +94,7 @@ This is zhang.niagara space，decode hdd version about niagara software extend s
  */
 
 // 9. 主题色 (Tailwind 颜色名，如 orange, blue, rose, emerald)其他颜色定制请自行用AI或搜索浏览器得到答案
-export const THEME_COLOR = "indigo"; 
+export const THEME_COLOR = "blue"; 
 
 // 10. 网站背景图片透明度（0.0 到 1.0 之间，数值越小，背景图越清晰）
 // 建议：浅色模式 0.7-0.9，深色模式 0.8-0.95

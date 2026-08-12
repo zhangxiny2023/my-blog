@@ -82,7 +82,7 @@ export const ABOUT_PAGE_CONFIG = {
   description: `
 hello！I am${AUTHOR_NAME}。
 
-This is zhang.niagara space，decode hdd version about niagara software extend script。
+This is zhang.niagara space，intrduce the functions of niagara 4.3 software extend script。
   `.trim()
 };
 

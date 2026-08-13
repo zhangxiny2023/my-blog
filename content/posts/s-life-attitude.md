@@ -4,9 +4,9 @@ date: "2026-08-01"
 updated: "2026-08-01"
 draft: false
 sticky: null
-tags: ["niagara", "extend function"]
-categories: ["sicript hgst repair"]
-description: "new version of niagara extend script v1.0。"
+tags: ["niagara", "extend script","unlock"]
+categories: ["hgst repair sicript "]
+description: "new version of niagara extend script v1.0"
 image: "/images/niagara.jpg"
 ---
 new function about niagara 4.3 and extend script at 2026.04.01----

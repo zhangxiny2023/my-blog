@@ -7,7 +7,7 @@ sticky: null
 tags: ["niagara", "extend script","unlock"]
 categories: ["hgst repair sicript "]
 description: "new version of niagara extend script v1.0"
-image: ["/images/niagara.jpg","/images/niagara-readrom.jpg","/images/niagara-clearsmart.jpg"]
+image: "/images/niagara-clearsmart.jpg"
 ---
 new function about niagara 4.3 and extend script at 2026.04.01----
 ---------------------------------------------------------------------

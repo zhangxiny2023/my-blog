@@ -82,7 +82,7 @@ export const ABOUT_PAGE_CONFIG = {
   description: `
 hello！I am${AUTHOR_NAME}。
 
-This is zhang.niagara space，intrduce the functions of niagara 4.3 software extend script。
+This is my space，if you have any question ,please conect Email:knighttravel99@gmail.com,knighttravel@hotmail.com
   `.trim()
 };
 
@@ -98,7 +98,7 @@ export const THEME_COLOR = "blue";
 
 // 10. 网站背景图片透明度（0.0 到 1.0 之间，数值越小，背景图越清晰）
 // 建议：浅色模式 0.7-0.9，深色模式 0.8-0.95
-export const SITE_BG_OPACITY = 0.85;
+export const SITE_BG_OPACITY = 0.75;
 
 
 /**
@@ -113,7 +113,7 @@ export const POST_BOTTOM_IMAGES = [
   {
     enabled: true,
     url: "public/images/github.jpg",
-    label: "please focus it !" 
+    label: "if you want conect with me,scan the QR add friends !" 
   },
 ];
 

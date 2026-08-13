@@ -7,7 +7,7 @@ sticky: null
 tags: ["niagara", "extend script","unlock"]
 categories: ["hgst repair sicript "]
 description: "new version of niagara extend script v1.0"
-image: "/images/niagara.jpg"
+image: ["/images/niagara.jpg","/images/niagara-readrom.jpg","/images/niagara-clearsmart.jpg"]
 ---
 new function about niagara 4.3 and extend script at 2026.04.01----
 ---------------------------------------------------------------------
@@ -23,7 +23,9 @@ new function about niagara 4.3 and extend script at 2026.04.01----
 
 --5、repire hdd，including g to p，rebuild trans,clear g-list.
 
---6、toshiba sas clear smart.
+--6、hgst read rom 、read module.
 
---7、seagate unlock，exe command to clear smart，unlock fw and update，cut head，modify sn and vendor.family 58\59
+--7、toshiba sas clear smart.
+
+--8、seagate unlock，exe command to clear smart，unlock fw and update，cut head，modify sn and vendor.family 58\59
 7C\91\92\98\BC\A0

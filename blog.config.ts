@@ -25,10 +25,10 @@ export const HOME_PAGE_DESCRIPTION = "IT engineer, focusing on hdd repair techno
  */
 
 // 3. 用户名
-export const AUTHOR_NAME = "niagara.zhang";
+export const AUTHOR_NAME = "Andy.niagara";
 
 // 4. 职业称号/简介
-export const AUTHOR_TITLE = "IT Engineer，HDD software developer";
+export const AUTHOR_TITLE = "IT Engineer，HDD Software Developer";
 
 // 5. 联系邮箱/链接 (显示在头像下方)
 export const AUTHOR_CONTACT = "mailto:knighttravel99@gmail.com";

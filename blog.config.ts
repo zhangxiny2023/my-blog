@@ -13,7 +13,7 @@ import { Home, Archive, Tag, User, MessageCircle, Tv, Share2,Image, HelpCircle, 
  */
 
 // 1. 网站标题（显示在浏览器标签页上）
-export const SITE_TITLE = "zhang.niagara blog";
+export const SITE_TITLE = "Andy.niagara blog";
 
 // 2. 网站首页描述（显示在首页标题下方，简短介绍）
 export const HOME_PAGE_DESCRIPTION = "IT engineer, focusing on hdd repair technology and software tool development！！";

@@ -7,7 +7,7 @@ sticky: null
 tags: ["niagara script", "ner version","modify vendor"]
 categories: ["hgst,niagara,sicript "]
 description: "new version of niagara extend script v1.1"
-image: "/images/niagara-readrom.jpg"
+image: "/images/niagara-modifymodel.jpg"
 ---
 new function about extend script version v1.1 at 2026.08.18----
 ---------------------------------------------------------------------

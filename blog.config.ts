@@ -64,7 +64,7 @@ export const MENU_ITEMS = [
 export const RECOMMENDED_LINKS = [
   { label: 'GitHub', url: 'https://github.com', icon: Share2 },
   { label: 'My Facebook', url: 'https://www.facebook.com/profile.php?id=61578658292008', icon: Tv },
-  { label: 'B2B shop', url: 'https://shop.hgst.ccwu.cc', icon: Image },
+  { label: 'B2B shop', url: 'https://shop.niagara.ccwu.cc', icon: Image },
   { label: 'Youtube', url: 'https://www.youtube.com/@Andy.niagara', icon: Image },
 ];
 

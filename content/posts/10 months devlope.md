@@ -1,10 +1,10 @@
 ---
-title: "niagara extend new version v1.1"
+title: "niagara extend new version v1.2"
 date: "2026-10-18"
 updated: "2026-10-18"
 draft: false
 sticky: null
-tags: ["niagara script", "ner version","modify vendor"]
+tags: ["niagara extende script","modify any vendor"]
 categories: ["hgst,niagara,sicript "]
 description: "new version of niagara extend script v1.2"
 image: "/images/niagara-modifymodel.jpg"

@@ -14,11 +14,11 @@ new function about extend script version v1.2 at 2026.10.18----
 
 --1、bulk modify sn and model from hgst to WD，you can input any vendor string xxx:
 
--- hus726040ala61x to wdc wdxxpurz-xxxxxxx;
+-- hus726040ala61x to wdc wdxxxxxx-xxxxxxx;
 
----hus726060ale60x to wdc wdxxpurz-xxxxxxx;
+---hus726060ale60x to wdc wdxxxxxx-xxxxxxx;
 
----huh728080ale604 to wdc wdxxpurz-xxxxxxx;
+---huh728080ale604 to wdc wdxxxxxx-xxxxxxx;
 
 ---huh721010ale604 to wdxxxxxx-xxxxxxx;
 
@@ -32,8 +32,8 @@ new function about extend script version v1.2 at 2026.10.18----
 
 ---wus721010ale604 to wdxxxxxx-xxxxxxx;
 
---2、toshiba sata clear smart.
+--2、clear smart of wuh721818ale6l4 and wuh721816ale6l4 wuh722020ale6l4
 
---3、zone and head cut
+--2、zone and head cut
 
---4、fix bad sect
+--3、fix bad sect
